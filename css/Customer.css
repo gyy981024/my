@@ -1,0 +1,122 @@
+
+/* 内容 */
+
+.content {
+    margin-top: 50px;
+}
+.content .current {
+    line-height: 24px;
+}
+
+.content .current .row {}
+
+.content .current .row .my-info {
+    margin-top: 50px;
+}
+
+.content .current .row .my-info h3,
+p {
+    padding-left: 16px;
+}
+
+.content .current .row .my-info h3 {
+    line-height: 50px;
+}
+
+.content .current .row .my-info p {
+    font-size: 14px;
+    line-height: 36px;
+    margin-bottom: 46px;
+}
+
+.content .current .row .my-info .my-info-time {
+    width: 100%;
+    height: 70px;
+    padding-right: 40px;
+    padding-left: 40px;
+    background-color: #2f2f2f;
+}
+
+.content .current .row .my-info .my-info-time p {
+    font-size: 24px;
+    font-family: "[Helvetica]";
+    line-height: 70px;
+    color: #d1d1d1;
+    margin-bottom: 0px;
+    display: inline-block;
+}
+
+.content .current .row .my-info .my-info-time div {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    margin-top: 19px;
+}
+
+.content .current .row .my-info .my-info-time img {
+    vertical-align: middle;
+}
+
+.pages {
+    height: 30px;
+    text-align: center;
+    margin: 160px auto;
+    line-height: 30px;
+}
+
+.pages a {
+    display: inline-block;
+    height: 30px;
+    padding: 0 13px;
+    cursor: pointer;
+    margin: 0px 6px;
+    color: #696969;
+}
+
+.pages a:hover {
+    background-color: #362E2B;
+}
+
+
+/*页尾*/
+
+.footer {
+    height: 492px;
+    width: 100%;
+}
+
+.footer .top {
+    width: 100%;
+    height: 427px;
+}
+
+.footer .p1 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.footer .p2 {
+    font-size: 18px;
+    margin-bottom: 22px;
+    text-align: center;
+}
+
+.footer .p3 {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.footer .btm {
+    width: 100%;
+    height: 64px;
+    background: #313131;
+}
+
+.footer .btm p {
+    text-align: center;
+    line-height: 64px;
+    color: #FFF;
+    font-size:
+}
